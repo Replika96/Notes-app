@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878583615049",
+    "project_id": "notes-ef67c",
+    "storage_bucket": "notes-ef67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878583615049:android:a7d27a7e4028b63ca07998",
+        "android_client_info": {
+          "package_name": "com.tazmin.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVpwjRR__6rxmifDNpWjiEHZ5s-lnSHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
